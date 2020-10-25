@@ -1,3 +1,6 @@
 Hellow Git
 Let's try to manage my works
 협업을 잘 해보자
+
+개발자
+SOLLA
